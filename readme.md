@@ -1,3 +1,5 @@
-https://juejin.cn/post/6844904183938678798
+#### vue 源码实现
 
-https://www.processon.com/mindmap/61d8fbc2e0b34d1be7e2ab2e
+https://www.processon.com/view/link/61daa07de401fd06a8bed44d
+
+参考：https://juejin.cn/post/6844904183938678798
